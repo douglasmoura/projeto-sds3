@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/img/caio_ze_droguinh2a.jpg" />
+</h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
